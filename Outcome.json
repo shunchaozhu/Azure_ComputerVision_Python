@@ -1,0 +1,36 @@
+{
+	'categories': [{
+		'name': 'others_',
+		'score': 0.00390625
+	}, {
+		'name': 'outdoor_',
+		'score': 0.01171875,
+		'detail': {
+			'landmarks': []
+		}
+	}, {
+		'name': 'sky_cloud',
+		'score': 0.421875
+	}],
+	'color': {
+		'dominantColorForeground': 'Blue',
+		'dominantColorBackground': 'Blue',
+		'dominantColors': ['Blue'],
+		'accentColor': 'C00B11',
+		'isBwImg': False,
+		'isBWImg': False
+	},
+	'description': {
+		'tags': ['outdoor', 'nature', 'blue', 'water', 'snow', 'man', 'orange', 'flying', 'plane', 'skiing', 'air', 'sky', 'large', 'red', 'yellow', 'standing', 'board', 'airplane', 'people', 'sunset', 'white', 'riding', 'sign', 'slope'],
+		'captions': [{
+			'text': 'a blue sky',
+			'confidence': 0.7084784516275027
+		}]
+	},
+	'requestId': '1482cc63-c579-4e79-8d09-d9700e1cf5cd',
+	'metadata': {
+		'width': 949,
+		'height': 428,
+		'format': 'Png'
+	}
+}
